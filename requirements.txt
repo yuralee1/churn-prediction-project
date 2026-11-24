@@ -1,0 +1,6 @@
+# Minimum versions needed to run the project (works in Google Colab and recent local Python 3.10+).
+pandas>=2.0
+numpy>=1.24
+scikit-learn>=1.3
+matplotlib>=3.7
+scipy>=1.10

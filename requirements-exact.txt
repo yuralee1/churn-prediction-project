@@ -1,0 +1,7 @@
+# Library versions used to produce the results in the final technical report (outputs/reference/).
+# Use these for an exact reproduction. Random Forest results can differ slightly in other versions.
+pandas==3.0.2
+scikit-learn==1.8.0
+numpy
+matplotlib
+scipy
