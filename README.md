@@ -1,6 +1,6 @@
 # Predicting Customer Churn in Subscription-Based Streaming Services
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR-USERNAME/churn-prediction-project/blob/main/notebooks/Churn_Project_Presentation.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yuralee1/churn-prediction-project/blob/main/notebooks/Churn_Project_Presentation.ipynb)
 
 > **Setup note:** replace `YOUR-USERNAME` in the badge link above (and in `REPO_URL` in the notebook's first code cell) with your GitHub username once the repository is created.
 
