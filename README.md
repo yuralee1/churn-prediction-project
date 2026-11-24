@@ -2,8 +2,6 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yuralee1/churn-prediction-project/blob/main/notebooks/Churn_Project_Presentation.ipynb)
 
-> **Setup note:** replace `YOUR-USERNAME` in the badge link above (and in `REPO_URL` in the notebook's first code cell) with your GitHub username once the repository is created.
-
 **Student:** Yura | **Institution:** Texas A&M International University (TAMIU) | **Term project**
 
 A complete analytics project that predicts which subscribers are likely to cancel, explains why, and turns the findings into retention recommendations. It uses the public IBM Telco Customer Churn dataset (7,043 customers) as a proxy for a subscription streaming service.
